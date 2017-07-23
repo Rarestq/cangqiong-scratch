@@ -1,5 +1,18 @@
 # 苍穹滴滴快的智能出行平台数据获取器
 
+## 废弃项目与备份资源
+
+目前所所爬取网站以关闭，故`main.py`不可用。`example.py`
+可用于查看例子。
+
+以下是一些以前爬取的数据（注意这些数据的正确性是受到质疑的，
+<a href="https://www.zhihu.com/question/37216775">知乎上相关讨论</a>）
+
+* <a href="https://pan.baidu.com/s/1nuTOUwh">成都2016年8月数据</a>
+* <a href="https://pan.baidu.com/s/1slBFXLj">南京2016年4月数据</a>
+* <a href="https://pan.baidu.com/s/1jIeesg2">西安2016年8月数据</a>
+* <a href="https://pan.baidu.com/s/1o8dqk9G">北京2016年8月数据</a>
+
 ## 数据来源
 
 http://v.kuaidadi.com/
