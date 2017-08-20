@@ -1,1 +1,1 @@
-python main.py 510100 --dir newdata2
+python main.py 440100 --dir newdata2
